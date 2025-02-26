@@ -1,8 +1,44 @@
-# React + Vite
+# **My Personal Portfolio**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **v1.0.0 - Initial Release**
 
-Currently, two official plugins are available:
+🔹 **Overview**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is my personal portfolio website, showcasing my skills, projects, and contact details. The initial version follows the PedroTech tutorial, but I will be redesigning and expanding it with additional features.
+
+📌 **Features**
+
+- Home, About Me, Projects, and Contact Me sections  
+- Responsive design for mobile and desktop  
+- Smooth scrolling and animations  
+- Contact form that will reach my email.
+
+📅 **Planned Updates**
+
+🔹 Custom UI redesign   
+🔹 Project filtering system  
+🔹 Hardware and Software projects filtering 
+
+🛠️ **Tech Stack**
+
+    Frontend: React.js, Tailwind and standard CSS  
+    Deployment: GitHub Pages
+
+🚀 **Installation & Setup**
+
+To run this project locally:
+
+```bash
+git clone https://github.com/RRRafael25/myPortfolio.git  
+cd myPortfolio  
+npm install  
+npm start
+```
+
+🌎 **Live Demo**
+
+🔗 [View Portfolio](https://RRRafael25.github.io/myPortfolio)
+📜 Credits
+
+This project was initially built by following the PedroTech tutorial.
+🎥 Tutorial Link: PedroTech YouTube Video

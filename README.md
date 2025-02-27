@@ -1,6 +1,6 @@
 # **My Personal Portfolio**
 
-🌎 **Live Site:** View Portfolio](https://RRRafael25.github.io/myPortfolio)
+🌎 **Live Site:** [View Portfolio](https://RRRafael25.github.io/myPortfolio)
 
 🚀 **v1.0.1 - Initial Release**
 

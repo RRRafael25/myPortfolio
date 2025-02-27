@@ -1,5 +1,7 @@
 # **My Personal Portfolio**
 
+🌎 **Live Site:** View Portfolio](https://RRRafael25.github.io/myPortfolio)
+
 🚀 **v1.0.1 - Initial Release**
 
 🔹 **Overview**
@@ -35,9 +37,7 @@ npm install
 npm start
 ```
 
-🌎 **Live Demo**
 
-🔗 [View Portfolio](https://RRRafael25.github.io/myPortfolio)
 📜 Credits
 
 This project was initially built by following the PedroTech tutorial.

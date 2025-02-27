@@ -2,7 +2,7 @@
 
 🌎 **Live Site:** [View Portfolio](https://RRRafael25.github.io/myPortfolio)
 
-🚀 **v1.0.1 - Initial Release**
+🚀 **v1.0.2 - Initial Release**
 
 🔹 **Overview**
 
